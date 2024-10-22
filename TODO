@@ -1,0 +1,1 @@
+NOTES template breaks when `sdp.ingress.hosts` exists but the hosts do not have paths
